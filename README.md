@@ -1,6 +1,6 @@
 # AutoSales-EDA-RFM-Analysis
 ## About
-Explored automotive sales data through an analysis, uncovering patterns in sales, customer behavior, and product performance. The project utilizes SQL queries to clean and analyze the data. Implemented RFM Analysis (Recency, Frequency, Monetary) to segment and understand customer behavior.
+Explored automotive sales data through an analysis, uncovering patterns in sales, customer behavior, and product performance. The project utilizes SQL queries to clean and analysis. Implemented RFM Analysis (Recency, Frequency, Monetary) to segment and understand customer behavior.
 RFM Analysis involves:
 
 - Recency: The time since a consumer last made a purchase.
